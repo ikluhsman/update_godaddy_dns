@@ -2,6 +2,8 @@
 
 Python script to update a DNS record for your domain using the Go Daddy API.
 
+Works in Linux OS's, not tested in MacOS or Windows.
+
 # Usage
 
 usage:
